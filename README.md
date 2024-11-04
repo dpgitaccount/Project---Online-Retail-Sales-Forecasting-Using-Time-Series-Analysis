@@ -1,0 +1,2 @@
+# Project---Online-Retail-Sales-Forecasting-Using-Time-Series-Analysis
+The Online Retail Sales Forecasting Using Time Series Analysis project leverages historical sales data to predict future sales trends for e-commerce platforms. By applying time series analysis techniques, the model identifies patterns to optimize inventory and improve marketing strategies, and enhance decision-making for Future revenue growth.
